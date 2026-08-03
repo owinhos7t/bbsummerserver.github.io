@@ -1,2 +1,5 @@
-# bbsummerserver.github.io
-BB Summer Server
+git init
+git add
+git commit -m "Initial commit"
+git remote add origin https://github.com/username/username.github.io.git
+git push -u origin main
